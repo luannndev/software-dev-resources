@@ -13,6 +13,7 @@ Welcome to the **Software Development Resources** repository! This collection of
 - [Packaging and Distribution](#packaging-and-distribution)
 - [Testing and Debugging](#testing-and-debugging)
 - [Performance Optimization](#performance-optimization)
+- [Sample Files and Scripts](#sample-files-and-scripts)
 - [Community and Learning Resources](#community-and-learning-resources)
 - [Conclusion](#conclusion)
 
@@ -90,6 +91,16 @@ Welcome to the **Software Development Resources** repository! This collection of
 | [Py-Spy](https://github.com/benfred/py-spy) | Python performance profiler. | ⭐⭐⭐⭐⭐ |
 | [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer) | Advanced tool for analyzing performance issues on Windows. | ⭐⭐⭐⭐⭐ |
 
+## Sample Files and Scripts 📁
+
+Here are some example files and scripts that can help with desktop application development:
+
+- [example_config.yaml](sandbox:/mnt/data/example_config.yaml) – YAML configuration file for desktop applications.
+- [example_electron_template.html](sandbox:/mnt/data/example_electron_template.html) – HTML template for an Electron-based desktop application.
+- [logging.py](sandbox:/mnt/data/logging.py) – Python script to set up basic logging for your application.
+- [build_project.bat](sandbox:/mnt/data/build_project.bat) – Batch script to build a .NET/C# project.
+- [setup_environment.sh](sandbox:/mnt/data/setup_environment.sh) – Bash script to set up the environment for your desktop application.
+
 ## Community and Learning Resources 🤝
 
 | Resource       | Description                                  | ⭐ Rating |
@@ -101,4 +112,4 @@ Welcome to the **Software Development Resources** repository! This collection of
 
 ## Conclusion 🏁
 
-This collection of resources is designed to help you succeed in building desktop applications for various platforms. Whether you're targeting Windows, macOS, or cross-platform, the tools and resources listed here will provide a solid foundation. If you have suggestions or additional resources, feel free to contribute! 😊
+This collection of resources and examples is designed to help you succeed in building desktop applications for various platforms. Whether you're targeting Windows, macOS, or cross-platform, the tools and resources listed here will provide a solid foundation. If you have suggestions or additional resources, feel free to contribute! 😊
