@@ -1,0 +1,16 @@
+
+app_name: "My YAML Configured App"
+version: "2.1"
+window_settings:
+  width: 1280
+  height: 720
+  fullscreen: false
+theme:
+  primary_color: "#0d6efd"
+  secondary_color: "#ffffff"
+database:
+  type: "PostgreSQL"
+  host: "localhost"
+  port: 5432
+  username: "user"
+  password: "password"

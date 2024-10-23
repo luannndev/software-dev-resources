@@ -1,0 +1,22 @@
+
+{
+    "app_name": "My Cool Desktop App",
+    "version": "1.0.0",
+    "window_settings": {
+        "width": 1024,
+        "height": 768,
+        "resizable": true
+    },
+    "theme": {
+        "background_color": "#ffffff",
+        "text_color": "#000000"
+    },
+    "database": {
+        "type": "SQLite",
+        "path": "./app_data/my_cool_app.db"
+    },
+    "features": {
+        "enable_logging": true,
+        "auto_update": false
+    }
+}
